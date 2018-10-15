@@ -1,0 +1,18 @@
+#videosection{
+
+	width: 60%;
+	margin-bottom: 0;
+	float: left;
+}
+
+#videosection video{
+	width: 34%;
+	margin-top: 10%;
+}
+
+#videosection p{
+	width: 66%;
+	position: relative;
+	top: -175px;
+	left: 35%;
+}

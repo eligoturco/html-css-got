@@ -1,0 +1,41 @@
+.categorie_actu_site, .categorie_actu_serie{
+
+	float: left;
+	margin-top: 30px;
+	margin-left: 150px;
+	margin-bottom: 30px;
+
+}
+
+.categorie_actu_site{
+
+	border-bottom: solid black 1px;
+}
+
+
+article p{
+
+	text-align: justify;
+	text-indent: 2em;
+	font-size: 20px;
+
+}
+
+article h2, article h3{
+
+	text-align: justify;
+	font-size: 25px;
+}
+
+
+@media screen and (max-width: 500px){
+
+	.categorie_actu_site, .categorie_actu_serie{
+
+		margin-top: 30px;
+		margin-bottom: 30px;
+		margin: auto;
+		width: 100%;
+	}
+
+}

@@ -1,0 +1,8 @@
+.bio_family_div{
+	text-align: center;
+}
+
+.bio_family_div div{
+	display: inline-block;
+	margin: 20px 10px;
+}

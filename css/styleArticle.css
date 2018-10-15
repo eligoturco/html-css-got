@@ -1,0 +1,23 @@
+article p{
+
+	text-align: justify;
+	text-indent: 2em;
+	font-size: 20px;
+
+}
+
+article h2, article h3{
+
+	text-align: justify;
+	font-size: 25px;
+}
+
+section figure{
+	text-align: center;
+}
+
+#redacteur{
+
+	font-size: 14px;
+
+}

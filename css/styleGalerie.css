@@ -1,0 +1,31 @@
+
+.imagecontainer{
+	text-align: center;
+}
+
+
+.imagecontainer figure{
+	display: inline-block;
+	border: solid 1px black;
+	margin: 30px 10px;
+}
+
+.imagecontainer img{
+	width: 200px;
+	height: 300px;
+}
+
+.gimagesection{
+	text-align: center;
+}
+
+.gimagesection a{
+	color: black;
+	font-size: 30px;
+	font-style: none;
+	text-decoration: none;
+}
+
+.gimagesection a:hover{
+	text-decoration: underline;
+}

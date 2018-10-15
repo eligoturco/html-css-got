@@ -1,0 +1,28 @@
+section table{
+
+	margin: auto;
+	font-size: 20px;
+}
+
+table{
+	border-collapse:collapse;
+	border-spacing:50px 30px;
+  border: solid 1px black;
+}
+
+th{
+	text-align: center;
+	border: solid 1px black;
+}
+
+td{
+	border: solid 1px black;
+}
+
+thead{
+	border: solid 1px black;
+}
+
+tbody{
+	font-size: 15px;
+}
